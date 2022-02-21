@@ -18,10 +18,14 @@
 
 <br>
 
-<div align="center" style="text-align:center">
+<div align="center" style="text-align:center">  
+  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uni7671)](https://solved.ac/uni7671)
+ &nbsp;&nbsp;&nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crakel)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
 
 <!-- 🛠🛠
 **crakel/crakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
