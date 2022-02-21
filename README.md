@@ -18,12 +18,9 @@
 
 <br>
 
-
 <div align="center" style="text-align:center">
-  
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uni7671)](https://solved.ac/uni7671)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crakel)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
 
 <!-- 🛠🛠
